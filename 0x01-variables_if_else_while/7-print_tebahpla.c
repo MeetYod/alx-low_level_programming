@@ -2,7 +2,7 @@
 
 /**
  * main - print the alphabet in reverse
- * 
+ *
  * Return: 0
  */
 int main(void)
